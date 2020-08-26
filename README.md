@@ -30,7 +30,7 @@
 
 ## :computer: Project
 
- Simple UI Clone to study interfaces in React Native.
+Simple UI Clone to study interfaces in React Native.
 
 ## :rocket: Technologies
 This project was made using the follow technologies:

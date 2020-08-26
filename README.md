@@ -70,7 +70,7 @@ $ yarn start
 $ yarn ios
 
 #Run android
-$yarn android
+$ yarn android
 ```
 
 ## :bug: Issues

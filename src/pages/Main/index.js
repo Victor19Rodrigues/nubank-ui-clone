@@ -90,11 +90,11 @@ const Main = () => {
             </CardHeader>
             <CardContent>
               <Title>Saldo disponível</Title>
-              <Description>R$ 197.611,89</Description>
+              <Description>R$ 1.997.611,89</Description>
             </CardContent>
             <CardFooter>
               <Annotation>
-                Transferência de R$ 20.000 recebida de Diego Schell Fernandes
+                Transferência de R$ 20.000 recebida de Victor Rodrigues da Silva
                 hoje as 19:00h
               </Annotation>
             </CardFooter>
